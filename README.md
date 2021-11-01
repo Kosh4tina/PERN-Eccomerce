@@ -1,6 +1,5 @@
 # PERN Stack - Ecommerce
-> Ecommerce website built with the PERN stack with React Context API for state management, pure CSS for style
-
+> Ecommerce website built with the PERN stack
 ## Install dependencies
 ### `npm install`
 
