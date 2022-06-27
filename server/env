@@ -1,0 +1,26 @@
+# Postgres database local connection
+PGUSER = 
+PGPASSWORD = 
+PGDATABASE =
+PGDATABASE_TEST = 
+PGHOST =
+PGPORT =
+
+# Application Port - express server listens on this port (default 9000).
+PORT=9000
+
+# JWT access secret
+SECRET=
+
+# JWT refresh secret
+REFRESH_SECRET=
+
+# mail server settings
+SMTP_FROM=
+SMTP_PASSWORD=
+SMTP_USER=
+SMTP_PORT=
+SMTP_HOST=
+
+# Stripe secret key - https://stripe.com/docs/keys
+STRIPE_SECRET_KEY = 
